@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmium/1.14.0">
+  <node id="45161410" version="12" timestamp="2020-01-03T08:30:28Z" lat="42.6178377" lon="1.73608">
+    <tag k="alt_name" v="Pic de Juclar"/>
+    <tag k="ele" v="2617"/>
+    <tag k="name" v="Pic de Ruf"/>
+    <tag k="natural" v="peak"/>
+    <tag k="source" v="Bing;GPS"/>
+  </node2>
+</osm>
