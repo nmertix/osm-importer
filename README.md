@@ -1,1 +1,1 @@
-Simple importer for OpenStreetMap dara.
+Simple importer for OpenStreetMap data.
