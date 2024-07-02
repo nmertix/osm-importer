@@ -1,1 +1,1 @@
-Simple importer for OpenStreetMap data.
+Simple importer for OpenStreetMap data to another format.
