@@ -1,1 +1,1 @@
-# osm-importer
+Simple importer for OpenStreetMap dara.
